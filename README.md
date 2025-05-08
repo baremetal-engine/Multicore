@@ -114,3 +114,8 @@ Multicore is part of a broader vision for long-term game preservation, community
 
 Watch this space.
 
+## 👤 Author & Founder
+
+This project was created and is maintained by **Trevor Honer**.  
+Feel free to reach out or follow the mission on GitHub.
+
