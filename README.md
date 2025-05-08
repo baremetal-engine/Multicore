@@ -73,7 +73,7 @@ Each game entry may report:
 - Completion rate (where applicable)
 - Multiplayer server count
 - Mod activity or plugin presence
-- Platform distribution (console, handheld, PC, emulator, CoreBox)
+- Platform distribution (console, handheld, PC, emulator)
 
 ### 🎮 Game Modes Supported
 
