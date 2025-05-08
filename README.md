@@ -40,8 +40,8 @@ Whether you’re working on a homebrew console, an emulator, or your own game en
 
 Multicore is built on the same foundational principles that define the future of ethical gaming:
 
-- ❌ No Cheaters
-- ❌ No Censorship
+- ❌ No cheaters
+- ❌ No censorship
 - ❌ No DRM  
 - ❌ No loot boxes  
 - ❌ No microtransactions  
