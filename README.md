@@ -6,11 +6,11 @@ Modular open-source multiplayer server framework for game preservation and cross
 
 ## 🎯 Mission
 
-Multicore exists to ensure multiplayer games remain accessible, moddable, and playable — forever.
+Multicore exists to ensure multiplayer games remain accessible, moddable, and playable—forever.
 
 It provides a clean, modular foundation for developers and fans to build, extend, and host online play infrastructure without centralized dependency.
 
-Whether you’re working on a homebrew console, an emulator, or your own game engine, Multicore aims to be the universal multiplayer layer for retro, modern, and future systems.
+Whether you're working with a console, handheld, mobile, or PC title—Multicore welcomes all platforms, eras, and architectures. If it had multiplayer, or should have, it belongs here.
 
 ---
 
