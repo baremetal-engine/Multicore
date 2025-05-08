@@ -68,31 +68,46 @@ It provides a transparent, community-driven look at which games are *actually* b
 ### 🔍 What Pulse Tracks
 
 Each game entry may report:
-- Total active sessions
-- Average playtime
-- Completion rate (where applicable)
-- Multiplayer server count
-- Mod activity or plugin presence
-- Platform distribution (console, handheld, PC, emulator)
+
+* Total active sessions
+* Average playtime
+* Completion rate (where applicable)
+* Multiplayer server count
+* Mod activity or plugin presence
+* Platform type (console, handheld, PC, emulator, etc.)
 
 ### 🎮 Game Modes Supported
 
-- **Multiplayer**: Tracks server-hosted games, concurrent sessions, and match activity
-- **Single-Player**: Tracks usage via self-hosted logs, frontends, or opt-in telemetry
+* **Multiplayer**: Tracks server-hosted games, concurrent sessions, and match activity
+* **Single-Player**: Tracks usage via self-hosted logs, frontends, or opt-in telemetry
 
 All tracking is:
-- 🔓 100% open source
-- ❌ Never tied to user identity
-- ✅ Verifiable through public code and data mirrors
+
+* 🔓 100% open source
+* ❌ Never tied to user identity
+* ✅ Verifiable through public code and data mirrors
+
+### 🔐 Analytics Philosophy
+
+* Analytics are **enabled by default**, but:
+
+  * They are **fully anonymous**
+  * All tracking logic is **open-source and inspectable**
+  * Players can **opt-out at any time** through config settings
+* Server hosts and single-player frontends can also choose to disable analytics
+
+This model ensures:
+
+> **Freedom is the default. Transparency is the enforcement. Trust is the result.**
 
 ### 📈 Why It Matters
 
-- Uncovers which games *endure* — not just which games are marketed
-- Exposes the long-term value of ethical design vs monetized churn
-- Helps developers and players study what truly makes games fun
-- Gives forgotten or indie titles a chance to shine on merit alone
+* Uncovers which games *endure* — not just which games are marketed
+* Exposes the long-term value of ethical design vs monetized churn
+* Helps developers and players study what truly makes games fun
+* Gives forgotten or indie titles a chance to shine on merit alone
 
-The Pulse System is our cultural mirror—and it will always remain open to the public.
+The Pulse System is our cultural mirror — and it will always remain in the hands of the players.
 
 ---
 
