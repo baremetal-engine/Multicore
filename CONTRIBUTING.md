@@ -53,6 +53,12 @@ By contributing, you agree that your code:
 * Is released under the AGPL-3.0 license
 * Follows the principles outlined above
 
+---
+
+## ✍️ Maintainer Pledge
+
+If you become a core maintainer, you must read and sign the [Maintainer Pledge](./MAINTAINER_PLEDGE.md) to affirm your commitment to the project’s vision and ethics.
+
 Let’s build the future of multiplayer — clean, open, and immortal.
 
 *— The Multicore Maintainers*
