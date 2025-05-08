@@ -70,6 +70,13 @@ The Pulse system is governed by one unbreakable rule:
 
 ---
 
+- 🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
+  Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
+
+  This vision allows communities to preserve and restore online play for games with abandoned or undocumented network protocols, while respecting legal and ethical boundaries.
+
+---
+
 ## 📚 Getting Started
 
 Coming soon. Multicore is currently in early infrastructure planning. Watch this repo for updates.
