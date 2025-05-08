@@ -52,6 +52,11 @@ Multicore is built on the same foundational principles that define the future of
 
 Multicore is not just a framework—it's a movement to return power, creativity, and permanence to the hands of players and developers.
 
+🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
+  Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
+
+  This vision allows communities to preserve and restore online play for games with abandoned or undocumented network protocols, while respecting legal and ethical boundaries.
+
 ---
 
 ## 📊 Pulse System: Multiplayer and Single-Player Analytics
@@ -88,13 +93,6 @@ All tracking is:
 - Gives forgotten or indie titles a chance to shine on merit alone
 
 The Pulse System is our cultural mirror—and it will always remain open to the public.
-
----
-
-🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
-  Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
-
-  This vision allows communities to preserve and restore online play for games with abandoned or undocumented network protocols, while respecting legal and ethical boundaries.
 
 ---
 
