@@ -68,8 +68,6 @@ Developers can use Pulse data to study what makes truly great multiplayer experi
 The Pulse system is governed by one unbreakable rule:  
 **It will always remain open source and auditable.**
 
----
-
 - 🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
   Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
 
