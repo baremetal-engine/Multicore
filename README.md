@@ -6,7 +6,7 @@ Modular open-source multiplayer server framework for game preservation and cross
 
 ## 🎯 Mission
 
-Multicore exists to ensure multiplayer games remain accessible, moddable, and playable—long after official servers disappear.
+Multicore exists to ensure multiplayer games remain accessible, moddable, and playable—forever.
 
 It provides a clean, modular foundation for developers and fans to build, extend, and host online play infrastructure without centralized dependency.
 
