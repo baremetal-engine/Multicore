@@ -54,21 +54,44 @@ Multicore is not just a framework—it's a movement to return power, creativity,
 
 ---
 
-## 📊 Pulse System (Coming Soon)
+## 📊 Pulse System: Multiplayer and Single-Player Analytics
 
-Multicore will feature an open-source popularity tracker called the **Pulse Board**.
+The **Pulse System** is Multicore's open telemetry and popularity tracking layer.
 
-This will transparently rank games by:
-- Active sessions
-- Server uptime
-- Community forks
+It provides a transparent, community-driven look at which games are *actually* being played—across eras, platforms, and genres. Pulse supports both multiplayer and single-player games under one unified framework.
 
-Developers can use Pulse data to study what makes truly great multiplayer experiences—unfiltered by marketing or monetization.
+### 🔍 What Pulse Tracks
 
-The Pulse system is governed by one unbreakable rule:  
-**It will always remain open source and auditable.**
+Each game entry may report:
+- Total active sessions
+- Average playtime
+- Completion rate (where applicable)
+- Multiplayer server count
+- Mod activity or plugin presence
+- Platform distribution (console, handheld, PC, emulator, CoreBox)
 
-- 🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
+### 🎮 Game Modes Supported
+
+- **Multiplayer**: Tracks server-hosted games, concurrent sessions, and match activity
+- **Single-Player**: Tracks usage via self-hosted logs, frontends, or opt-in telemetry
+
+All tracking is:
+- 🔓 100% open source
+- ❌ Never tied to user identity
+- ✅ Verifiable through public code and data mirrors
+
+### 📈 Why It Matters
+
+- Uncovers which games *endure* — not just which games are marketed
+- Exposes the long-term value of ethical design vs monetized churn
+- Helps developers and players study what truly makes games fun
+- Gives forgotten or indie titles a chance to shine on merit alone
+
+The Pulse System is our cultural mirror—and it will always remain open to the public.
+
+---
+
+🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
   Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
 
   This vision allows communities to preserve and restore online play for games with abandoned or undocumented network protocols, while respecting legal and ethical boundaries.
