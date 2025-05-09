@@ -50,7 +50,42 @@ Multicore is built on the same foundational principles that define the future of
 - ✅ Player-owned infrastructure  
 - ✅ Eternal multiplayer
 
-🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
+---
+
+## 🎮 Retro Play Support (Coming Soon)
+
+Many of the greatest multiplayer games in history never had native online support. Multicore will change that.
+
+Through specialized relay modules, Multicore will enable online play for classic games that originally supported only in-person local multiplayer. This includes support for platforms and systems such as:
+
+* SNES, N64, GameCube
+* PlayStation 1 and 2
+* Game Boy Advance (link cable emulation)
+* Arcade systems (e.g., MAME-compatible multiplayer)
+
+### 🕹️ How It Works
+
+* Simulates local multiplayer sessions over the internet using lightweight relay servers
+* Bridges input sync for 2–4 player games originally designed for same-console play
+* Works across original hardware (via modding) and emulators
+
+### 📡 What It Enables
+
+* Host or join matches in retro couch co-op and arcade games
+* Play cross-region with friends, without needing a LAN setup
+* Extend Pulse analytics to track and surface retro game sessions
+
+### 🔐 Principles
+
+* Fully open source
+* Compatible with existing emulators where possible
+* No ROMs or copyrighted content distributed
+
+Retro Play is not about reimagining games. It’s about making what was once local — global, permanent, and community-hosted.
+
+---
+
+## 🤖 **Future-Compatible with AI-Assisted Protocol Emulation**  
   Multicore is designed with modular architecture that will support future tools—such as AI-generated network adapters and clean-room protocol emulators—enabling broader support for legacy multiplayer environments.  
 
   This vision allows communities to preserve and restore online play for games with abandoned or undocumented network protocols, while respecting legal and ethical boundaries.
