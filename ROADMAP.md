@@ -106,7 +106,31 @@ This phase brings visibility and accountability to preserved multiplayer and sin
 
 ---
 
-## 🔄 Phase 5: Multiplayer Refinement
+## 🕹️ Phase 5: Retro Local Multiplayer Support
+
+This phase expands Multicore's reach to include classic games that never had native online multiplayer. By emulating local multiplayer (via link cables, multitaps, or arcade boards), players can enjoy 2–4 player sessions over the internet — hosted on lightweight relay servers.
+
+**Key Objectives:**
+
+* Build relay modules to simulate link cable or local controller inputs
+
+* Support SNES, N64, PS1, GBA, and arcade-style multiplayer frameworks
+
+* Allow cross-device multiplayer using local-sync protocols
+
+* Integrate session tracking into the Pulse System for visibility
+
+* [ ] Build relay modules to simulate local multiplayer
+
+* [ ] Support classic platforms (SNES, N64, PS1, GBA, arcade)
+
+* [ ] Enable online relay play for local-only multiplayer games
+
+* [ ] Add session tracking to Pulse System
+
+---
+
+## 🔄 Phase 6: Multiplayer Refinement
 
 This phase strengthens Multicore’s robustness and usability. With real-world use growing, it's time to scale reliability, expand support tools, and make launching/joining multiplayer easier for players.
 
@@ -130,7 +154,7 @@ This phase strengthens Multicore’s robustness and usability. With real-world u
 
 ---
 
-## 🌍 Phase 6: Ecosystem & Documentation
+## 🌍 Phase 7: Ecosystem & Documentation
 
 This phase focuses on making the project scalable for long-term contributors and easy to adopt for newcomers. It will professionalize the documentation and improve developer onboarding.
 
@@ -154,17 +178,31 @@ This phase focuses on making the project scalable for long-term contributors and
 
 ---
 
-## 🤖 Phase 7: AI-Assisted Protocol Emulation
+## 🤖 Phase 8: AI-Assisted Protocol Emulation
 
 This phase prepares Multicore to harness AI for decoding, modeling, and generating server logic for games that are too complex, encrypted, or undocumented to support via manual clean-room engineering alone.
 
 **Key Objectives:**
 
 * Design interfaces for AI-generated protocol adapters
+
 * Build safe sandbox environments for testing AI-reconstructed multiplayer behavior
+
 * Feed AI tools with legal inputs (packet captures, documented behavior, public logs)
+
 * Enable gradual training via community feedback loops to improve accuracy
+
 * Use AI modules to resurrect multiplayer support for games previously thought impossible
+
+* [ ] Design interfaces for AI-generated protocol adapters
+
+* [ ] Build sandboxed environments for AI multiplayer logic testing
+
+* [ ] Train AI on packet captures and public protocol behavior
+
+* [ ] Validate and iterate through feedback from community testers
+
+* [ ] Launch support for multiplayer in games previously too complex to reverse engineer
 
 ---
 
